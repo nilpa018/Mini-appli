@@ -1,5 +1,5 @@
 {
-  "name": "ExerciceReact",
+  "name": "Mini_app",
   "version": "0.1.0",
   "homepage": "https://nilpa018.github.io/exercicereact",
   "private": true,
@@ -8,7 +8,7 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-leaflet": "^2.6.0",
-    "react-scripts": "3.2.0",
+    "react-scripts": "^3.3.1",
     "styled-components": "^4.4.1"
   },
   "scripts": {
